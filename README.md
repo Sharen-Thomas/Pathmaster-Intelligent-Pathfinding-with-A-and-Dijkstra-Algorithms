@@ -31,7 +31,7 @@ A 2D grid-based simulation comparing two fundamental pathfinding algorithms: Dij
 - Path length: Optimal
 - Speed: Slower
 
-## A*
+### A*
 - Nodes visited: ~150-200
 - Path length: Optimal
 - Speed: ~60-70% faster 
