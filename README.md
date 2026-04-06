@@ -53,7 +53,7 @@ A 2D grid-based simulation comparing two fundamental pathfinding algorithms: Dij
 
 ## FILES 
 
-- 'CSCI218_Project_Report.pdf' - Full project documentation
+- 'CSCI218_Project_Report.pdf' - Complete project documentation
 - 'CSCI218_Project_Demo_Link.pdf' - Video demonstration link 
 
 ## DISCLAIMER
